@@ -1,0 +1,8 @@
+python-telegram-bot==22.7
+requests==2.32.5
+python-whois==0.9.6
+instaloader==4.15
+qrcode==8.2
+pillow==12.1.1
+dnspython==2.8.0
+pyfiglet==1.0.4
